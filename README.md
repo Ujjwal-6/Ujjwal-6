@@ -47,4 +47,5 @@ interpretability is a hard requirement rather than a nice-to-have.
 
 [Email](mailto:ujjwalchoraria@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/ujjwal-choraria-a36b0531b/) ·
-[Codeforces](https://codeforces.com/profile/ujjwal_choraria)
+[Codeforces](https://codeforces.com/profile/ujjwal_choraria) ·
+[Résumé](https://drive.google.com/file/d/1RdTd84le0fkhQ1txcCO0zVWyAns6zxXa/view?usp=drive_link)
